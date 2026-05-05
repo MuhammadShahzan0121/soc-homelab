@@ -2,7 +2,8 @@
 
 ## Overview
 
-This project is a beginner SOC (Security Operations Center) home lab built using UbuntuARM, Windows, and Splunk SIEM.
+This project is a beginner SOC (Security Operations Center) home lab built using UbuntuARM, Windows, Elasticsearch,
+Kibana and Winlogbeat.
 
 The goal of this lab is to:
 
@@ -16,7 +17,9 @@ The goal of this lab is to:
 
 * UbuntuARM64 Server
 * Windows 10/11
-* Splunk Enterprise 
+* Elasticsearch
+* Kibana
+* Winlogbeat
 * PowerShell
 * Windows Event Logs
 
