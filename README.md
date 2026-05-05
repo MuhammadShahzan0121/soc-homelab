@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project is a beginner SOC (Security Operations Center) home lab built using Ubuntu, Windows, and Wazuh SIEM.
+This project is a beginner SOC (Security Operations Center) home lab built using UbuntuARM, Windows, and Splunk SIEM.
 
 The goal of this lab is to:
 
@@ -14,9 +14,9 @@ The goal of this lab is to:
 
 ## Technologies Used
 
-* Ubuntu Server
+* UbuntuARM64 Server
 * Windows 10/11
-* Wazuh
+* Splunk Enterprise 
 * PowerShell
 * Windows Event Logs
 
