@@ -33,7 +33,7 @@ Uploaded ARM architecture screenshot
 
 ## Resolution
 
-The lab design was updated to use Splunk Enterprise because it provides better compatibility with ARM-based environments.
+The lab design was updated to use Elasticsearch, Kibana and Winlogbeat because it provides better compatibility with ARM-based environments.
 
 ---
 
